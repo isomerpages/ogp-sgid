@@ -16,7 +16,7 @@ sections:
       title: Authenticate users on FormSG
       description: Set up authentication on your forms with just one click
       alt: Image alt text
-      image: /images/Confirmed-bro.png
+      image: /images/rsz_confirmed-bro.png
   - infopic:
       title: Integrated with SingPass App
       description: "Citizens could simply scan sgID QR code using the SingPass app to
