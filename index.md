@@ -13,10 +13,10 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
   - infopic:
-      title: Authenticate on FormSG
+      title: Authenticate users on FormSG
       description: Set up authentication on your forms with just one click
       alt: Image alt text
-      image: /images/take-control.png
+      image: /images/Confirmed-bro.png
   - infopic:
       title: Integrated with SingPass App
       description: "Citizens could simply scan sgID QR code using the SingPass app to
