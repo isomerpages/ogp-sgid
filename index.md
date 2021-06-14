@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: sgID
+title: "sgID "
 description: Designed for privacy
 image: /images/isomer-logo.svg
 permalink: /
