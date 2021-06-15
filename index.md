@@ -27,5 +27,5 @@ sections:
       title: Authentication made simple
       description: "Set up authentication on your services in a few days with sgID "
       alt: Image alt text
-      image: /images/Setup%20Wizard-rafiki.png
+      image: /images/setup.png
 ---
