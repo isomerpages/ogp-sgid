@@ -22,6 +22,7 @@ sections:
       description: "Citizens could simply scan sgID QR code using the SingPass app to
         authenticate "
       alt: Image alt text
+      image: /images/sgid.png
   - infopic:
       title: Authentication made simple
       description: "Set up authentication on your services in a few days with sgID "
