@@ -19,14 +19,14 @@ sections:
       alt: Image alt text
       image: /images/rsz_confirmed-bro2.png
   - infopic:
-      title: Integrated with SingPass App
-      description: "Citizens could simply scan sgID QR code using the SingPass app to
-        authenticate "
+      title: Integrated with Singpass app
+      description: Why is it a separate thing and not just called Singpass, why another name
       alt: Image alt text
       image: /images/sgid.png
   - infopic:
       title: Authentication made simple
-      description: "Set up authentication on your services in a few days with sgID "
+      description: Set up authentication on your services in a few days with sgID.
+        Free and fast
       alt: Image alt text
       image: /images/setup.png
 ---
