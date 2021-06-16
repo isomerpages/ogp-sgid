@@ -14,19 +14,18 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
   - infopic:
-      title: Authenticate users on FormSG
-      description: Set up authentication on your forms with just one click
-      alt: Image alt text
-      image: /images/rsz_confirmed-bro2.png
-  - infopic:
       title: Integrated with Singpass app
       description: Why is it a separate thing and not just called Singpass, why another name
       alt: Image alt text
       image: /images/sgid.png
   - infopic:
-      title: Authentication made simple
-      description: Set up authentication on your services in a few days with sgID.
-        Free and fast
+      title: Authenticate users on FormSG
+      description: Set up authentication on your forms with just one click
+      alt: Image alt text
+      image: /images/rsz_confirmed-bro2.png
+  - infopic:
+      title: Free and fast
+      description: Set up authentication on your services in a few days with sgID
       alt: Image alt text
       image: /images/setup.png
 ---
