@@ -22,7 +22,7 @@ sections:
       title: Authenticate users on FormSG
       description: Set up authentication on your forms with just one click
       alt: Image alt text
-      image: /images/rsz_confirmed-bro2.png
+      image: /images/form.png
   - infopic:
       title: Free and fast
       description: Set up authentication on your services in a few days with sgID
