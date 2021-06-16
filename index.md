@@ -30,4 +30,9 @@ sections:
       description: Set up authentication on your services in a few days with sgID
       alt: Image alt text
       image: /images/setup.png
+  - infobar:
+      title: Free and fast
+      description: Set up authentication on your services in a few days with sgID.
+      button: Get started
+      url: form.gov.sg
 ---
