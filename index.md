@@ -17,7 +17,7 @@ sections:
       title: Integrated with Singpass app
       description: Why is it a separate thing and not just called Singpass, why another name
       alt: Image alt text
-      image: /images/sgid.png
+      image: /images/integrate.png
   - infopic:
       title: Authenticate users on FormSG
       description: Set up authentication on your forms with just one click
