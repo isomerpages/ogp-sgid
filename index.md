@@ -20,7 +20,9 @@ sections:
       image: /images/integrate.png
   - infopic:
       title: Authenticate users on FormSG
-      description: Set up authentication on your forms with just one click
+      description: Set up authentication on your forms with just one click. If you are
+        filling in a form, simply log in with your Singpass app by scanning the
+        QR code as usual.
       alt: Image alt text
       image: /images/form.png
   - infopic:
