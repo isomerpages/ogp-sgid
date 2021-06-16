@@ -25,11 +25,6 @@ sections:
         QR code as usual.
       alt: Image alt text
       image: /images/form.png
-  - infopic:
-      title: Free and fast
-      description: Set up authentication on your services in a few days with sgID
-      alt: Image alt text
-      image: /images/setup.png
   - infobar:
       title: Free and fast
       description: Set up authentication on your services in a few days with sgID.
