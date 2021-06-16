@@ -8,7 +8,8 @@ notification: null
 sections:
   - hero:
       title: sgID
-      subtitle: Designed for Privacy
+      subtitle: sgID is a digital identity system built by the Singapore Government,
+        integrated into the Singpass app.
       background: /images/skyline.png
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
