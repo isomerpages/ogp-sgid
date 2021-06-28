@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "sgID "
+title: "sgID"
 description: Designed for privacy
 image: /images/isomer-logo.svg
 permalink: /
@@ -15,7 +15,7 @@ sections:
       url: https://go.gov.sg/sgid-contact
   - infopic:
       title: Integrated with Singpass app
-      description: Why is it a separate thing and not just called Singpass, why another name
+      description: sgID is integrated into the SingPass app. 
       alt: Image alt text
       image: /images/integrate.png
   - infopic:
@@ -26,8 +26,8 @@ sections:
       alt: Image alt text
       image: /images/form.png
   - infobar:
-      title: Free and fast
-      description: Set up authentication on your services in a few days with sgID.
+      title: Hasslefree onboarding
+      description: Authenticate users on your services with sgID.
       button: Get started
       url: form.gov.sg
 ---
