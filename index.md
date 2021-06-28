@@ -27,12 +27,6 @@ sections:
       alt: Image alt text
       image: /images/form.png
       subtitle: PUBLIC OFFICERS
-  - infopic:
-      title: Authenticate users on your services
-      subtitle: "businesses "
-      description: "Verify the identity of users logging into your services "
-      button: Button Text
-      alt: Image alt text
   - infobar:
       title: Get Started
       description: Find out more about sgID and what it takes to get onboard
