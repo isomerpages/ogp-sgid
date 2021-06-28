@@ -28,7 +28,7 @@ sections:
       image: /images/form.png
       subtitle: PUBLIC OFFICERS
   - infopic:
-      title: Authenticate users on your services
+      title: Authenticate citizens on your services
       subtitle: "businesses "
       description: Verify the identity of users logging into your services with sgID
       button: Button Text
