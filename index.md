@@ -30,8 +30,7 @@ sections:
   - infopic:
       title: Authenticate users on your services
       subtitle: "businesses "
-      description: Verify the identity of users logging into your services. Users can
-        simply log in using Singpass App.
+      description: "Verify the identity of users logging into your services "
       button: Button Text
       alt: Image alt text
   - infobar:
