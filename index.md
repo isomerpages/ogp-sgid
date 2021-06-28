@@ -14,9 +14,9 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
   - infopic:
-      title: Integrated into Singpass App
-      description: "Same authentication flow, citizens will log into your services
-        through Singpass App. "
+      title: Same authentication flow
+      description: "sgID is integrated into the Singpass. Citizens can log into your
+        services by scanning an sgID QR code using Singpass App. "
       alt: Image alt text
       image: /images/integrate.png
   - infopic:
