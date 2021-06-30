@@ -52,3 +52,4 @@ plugins:
 staging: https://ogp-sgid-staging.netlify.app
 prod: https://ogp-sgid-prod.netlify.app
 is_government: true
+google_analytics: UA-200889821-2
