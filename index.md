@@ -29,8 +29,8 @@ sections:
       subtitle: PUBLIC OFFICERS
   - infobar:
       title: Interested to onboard?
-      description: "sgID is in currently in beta and only available to selected
-        businesses and government agencies. "
+      description: "sgID is currently available to selected businesses and government
+        agencies. "
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
 ---
