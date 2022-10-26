@@ -8,8 +8,8 @@ notification: null
 sections:
   - hero:
       title: sgID
-      subtitle: sgID is an experimental authentication and data sharing service
-        <br>focused on preserving privacy.
+      subtitle: sgID is an authentication and data sharing service <br>focused on
+        preserving privacy.
       background: /images/background.png
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
