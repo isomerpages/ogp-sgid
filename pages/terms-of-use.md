@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### 1. General
+**1. General**
 
 1.1. These Terms of Use govern your access to and use of our services, including the application (whether as software or as a website or otherwise), its contents (including APIs, if any), push notifications and all other accompanying materials as identified in the Schedule below (collectively, the "**Service**"). 
 
@@ -16,11 +16,11 @@ appropriate (for example, by posting the notice through the Service, any website
 
 1.5. If you are accessing or using the Service for and on behalf of another entity (such as your employer), you warrant and represent that you have the necessary authority to bind such entity to these Terms of Use.
 
-### 2. Nature of this Service
+**2. Nature of this Service**
 
 Please see the Schedule for more information and terms concerning this Service.
 
-### 3. Licence Terms and Restrictions
+**3. Licence Terms and Restrictions**
 
 3.1. The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by GovTech. Please see clause 4 (Third Party Materials) for more information.
 
@@ -36,7 +36,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 3.4. You will not interfere or attempt to interfere with the proper working of the Service or otherwise do anything that imposes an unreasonable or disproportionately large load on GovTech’s servers.
 
-### 3A. Account Access and Security
+**3A. Account Access and Security**
 
 3A.1. You are solely responsible for maintaining the confidentiality and security of any authentication credentials associated with your use of the Service, including the security of any of your devices which store the authentication credentials.
 
@@ -49,7 +49,7 @@ authentication credentials at any time, or require you to have to re-authenticat
 
 3A.5. For the avoidance of doubt, you are solely responsible for any loss of whatever nature arising from unauthorized or unofficial modifications made to your device which permit or escalate privileged access, or remove restrictions to such access, which are not intended by the manufacturer or provider of your device or operating system of your device (e.g., “rooting” or “jailbreaking” your mobile phone).
 
-### 4. Third Party Materials
+**4. Third Party Materials**
 
 4.1. The Service may require, enable or facilitate access to or use of software or services of a third party (“**Third Party**”). In such an event, there may be terms of use of the third party software or service (the “**Third Party Terms**”). GovTech may be required under or as a result of the Third Party Terms to notify you of certain terms that apply to you (either directly as an end user, or as a party whose acts or omissions could cause GovTech to breach the Third Party Terms) when you use the Services. An example of Third Party Terms may be open source software terms or standard form terms of the distribution platform from which you obtain any part of the Service (e.g. Google Play Store or Apple App Store terms) which bind GovTech as a developer or user of the distribution platform (the “**Distribution Terms**”). Information on the Third Party Terms are embedded in the Service, already accounted for in these Terms of Use, publicly available (e.g the Distribution Terms) or otherwise indicated in the Schedule herein. For the avoidance of doubt, insofar as this Clause 4 relates to the Distribution Terms, the relevant Distribution Terms are the terms of the specific platform from which you obtained a copy of the software or application that is part of the Service. For example, if you obtained the said copy from the Google Play Store, then the
 relevant terms are Google’s Distribution Terms.
@@ -72,7 +72,7 @@ Use.
 
 4.7. Without prejudice and in addition to the foregoing, GovTech shall not be responsible for your use of any software or service of a Third Party.
 
-### 5. Your Consent to Your Data and to Access Functions of Your Device
+**5. Your Consent to Your Data and to Access Functions of Your Device**
 
 5.1. You hereby grant to GovTech a non-exclusive, worldwide, perpetual and royalty-free right to collect, use, disclose, process, modify, adapt, create derivative works of, reproduce, and sublicense any and all information or data submitted, uploaded or shared by you to the extent necessary to provide the Service or for any other purpose expressly or impliedly provided in these Terms of Use, or as permitted by law.
 
@@ -82,11 +82,11 @@ Use.
 
 5.4. Please also see clause 8 (Privacy Statement).
 
-### 5A. Ownership of Feedback/Requests/Suggestions
+**5A. Ownership of Feedback/Requests/Suggestions**
 
 You agree that all title and interest in any feedback, requests or suggestions from you concerning the Services provided to GovTech shall be owned by GovTech and, without prejudice and in addition to clause 5.3, you shall waive all rights existing in or in respect of the same (including, for the avoidance of doubt, any signature requirements).
 
-### 5B. Confidentiality
+**5B. Confidentiality**
 
 5B.1. If you receive information or data (in whatever form) from GovTech or a Third Party which is designated confidential or proprietary or is otherwise reasonably understood to be confidential or proprietary (collectively, “**Confidential Information**”), you shall not use, disclose or reproduce the Confidential Information except for the purpose for which it was provided to you. If consent to disclose the Confidential Information to a third party is given by GovTech or the Third Party to you, any act or omission in respect of the Confidential Information by that person shall be deemed to be your act or omission and you agree to be fully liable for the same. In all cases, you shall protect the Confidential Information to the same extent you protect your own confidential information but in no event less than a reasonable standard of care. You shall ensure that any recipients are bound by confidentiality terms at least as restrictive as this Clause.
 
@@ -102,7 +102,7 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 
 5B.4. Nothing in this Clause 5B shall prejudice GovTech’s or the Third Party’s other rights at law.
 
-### 6. Disclaimers and Indemnity
+**6. Disclaimers and Indemnity**
 
 6.1. **The Service is provided on an "as is" and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties of any kind whatsoever in relation to the Service and hereby disclaims all express, implied and/or statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to any representations or warranties:**
 
@@ -138,7 +138,7 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 
 &nbsp;&nbsp;&nbsp;&nbsp;6.7.2. no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
 
-### 7. Hyperlinks
+**7. Hyperlinks**
 
 7.1. Insofar as the Service provides a hyperlink to material not maintained or controlled by GovTech, GovTech shall not be responsible for the content of the hyperlinked material and shall not be liable for any damages or loss arising from access to the hyperlinked material. Use of the hyperlinks and access to such hyperlinked materials are entirely at your own risk. The hyperlinks are provided merely as a convenience to you and do not imply endorsement by, association or affiliation with GovTech of the contents of or provider of the hyperlinked materials.
 
@@ -150,22 +150,26 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 
 &nbsp;&nbsp;&nbsp;&nbsp;7.3.2. to disclaim responsibility and/or liability for materials that link to or frame any part of the Service.
 
-### 8. Privacy Statement
+**8. Privacy Statement**
+
 You also agree to the terms of the Government Agency Privacy Statement for this Service as may be amended from time to time. The Government Agency Privacy Statement will form part of these Terms of Use.
 
-### 9. Rights of Third Parties
+**9. Rights of Third Parties**
+
 Subject to the rights of the Third Party and/or Singapore public sector agencies, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
 
-### 10. Assignment
+**10. Assignment**
 
 10.1. You may not assign or sub-contract this Terms of Use without the prior written consent of GovTech.
 
 10.2. GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract.
 
-### 10A. Severability
+**10A. Severability**
+
 If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
 
-### 11. Governing Law and Dispute Resolution
+**11. Governing Law and Dispute Resolution**
+
 11.1.  These Terms of Use shall be governed by and construed in accordance with laws of Singapore.
 
 11.2.  Subject to clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
@@ -184,3 +188,41 @@ Where GovTech is the defendant or respondent, it shall be given at least 30 days
 
 These Terms of Use are dated 28/11/2022.
 
+### Schedule
+
+1. **Name of Service**: sgID (mobile)
+2. **Nature of Service**
+
+    This service facilitates:
+		
+    &nbsp;&nbsp;&nbsp;&nbsp;a. the retrieval of requests for sharing of personal information
+				
+    &nbsp;&nbsp;&nbsp;&nbsp;b. the selection of personal information to be shared
+				
+    &nbsp;&nbsp;&nbsp;&nbsp;c. the approval for sharing selected personal information
+				
+    &nbsp;&nbsp;&nbsp;&nbsp;d. the generation of unique IDs
+    
+3. **Third party software/services**
+
+    &nbsp;&nbsp;&nbsp;&nbsp;a. Google's distribution terms ([link](https://play.google.com/about/developer-distribution-agreement.html))
+				
+    &nbsp;&nbsp;&nbsp;&nbsp;b. Apple's distribution terms ([link](https://developer.apple.com/terms))
+				
+    &nbsp;&nbsp;&nbsp;&nbsp;c. SingPass's terms ([link](https://singpass.gov.sg/singpass/common/termsofuse))
+				
+    &nbsp;&nbsp;&nbsp;&nbsp;d. MyInfo's terms ([link](https://ndi-api-gov.sg/termsofuse))
+
+    &nbsp;&nbsp;&nbsp;&nbsp;e. List of open source software ([link](https://ndi-api-gov.sg/termsofuse))
+
+    &nbsp;&nbsp;&nbsp;&nbsp;f. OpenID Foundation OpenID Connect 1.0 protocol ([link](https://openid.net/developers/specs/))
+		
+4. **Special terms**
+
+    a.  Please note that the Service is reliant on the use of SingPass and MyInfo. Your use of those services will be governed by the terms of those services. 
+    
+    b.  GovTech does not own or control any third party site, product, or service you use the Service in conjunction with (such as the site, product or service of the third party with whom you are sharing your data). GovTech does not endorse these third parties, and the use of the site, product or service is entirely at your risk. GovTech will not be liable for the acts or omissions of any such third parties, nor will GovTech be liable for any damage(s) that you may suffer as a result of your transactions or any other interaction with such third parties. Separate terms (and not these Terms of Use) govern the relationship between you and those third parties.
+    
+    c.  The Service may only be used on one mobile device at any given time, and any subsequent registration will deactivate the previous one.
+    
+    d. As the Service was not created by the OpenID Foundation (“**OIDF**”), the OIDF does not represent that the Service is compliant with OIDF specifications.
