@@ -151,4 +151,36 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 &nbsp;&nbsp;&nbsp;&nbsp;7.3.2. to disclaim responsibility and/or liability for materials that link to or frame any part of the Service.
 
 ### 8. Privacy Statement
+You also agree to the terms of the Government Agency Privacy Statement for this Service as may be amended from time to time. The Government Agency Privacy Statement will form part of these Terms of Use.
+
+### 9. Rights of Third Parties
+Subject to the rights of the Third Party and/or Singapore public sector agencies, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
+
+### 10. Assignment
+
+10.1. You may not assign or sub-contract this Terms of Use without the prior written consent of GovTech.
+
+10.2. GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract.
+
+### 10A. Severability
+If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
+
+### 11. Governing Law and Dispute Resolution
+11.1.  These Terms of Use shall be governed by and construed in accordance with laws of Singapore.
+
+11.2.  Subject to clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
+    
+11.3. GovTech may, at its sole discretion, refer any dispute referred to in clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre (“**SIAC**”) in Singapore in accordance with the Arbitration Rules of the SIAC ("**SIAC Rules**") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
+
+&nbsp;&nbsp;&nbsp;&nbsp;11.3.1.  The seat of the arbitration shall be Singapore.
+
+&nbsp;&nbsp;&nbsp;&nbsp;11.3.2.  The tribunal shall consist of one (1) arbitrator. 
+    
+&nbsp;&nbsp;&nbsp;&nbsp;11.3.3.  The language of the arbitration shall be English.
+
+&nbsp;&nbsp;&nbsp;&nbsp;11.3.4.  All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
+    
+Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
+
+These Terms of Use are dated 28/11/2022.
 
