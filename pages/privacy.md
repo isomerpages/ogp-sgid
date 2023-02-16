@@ -112,5 +112,9 @@ This version of the Privacy Statement is dated 28/11/2022.
     r. Mailing Address
 
     s. Name of Employer
+		
+    t. HDB Type
+
+    u. Housing Type
 
 Please note that notwithstanding anything to the contrary, the data which is drawn from MyInfo is stored on your mobile device and not with GovTech.
