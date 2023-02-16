@@ -213,7 +213,7 @@ These Terms of Use are dated 28/11/2022.
 				
     &nbsp;&nbsp;&nbsp;&nbsp;d. MyInfo's terms ([link](https://ndi-api-gov.sg/termsofuse))
 
-    &nbsp;&nbsp;&nbsp;&nbsp;e. List of open source software ([link](https://ndi-api-gov.sg/termsofuse))
+    &nbsp;&nbsp;&nbsp;&nbsp;e. List of open source software ([link](https://go.gov.sg/sgid-credits-server))
 
     &nbsp;&nbsp;&nbsp;&nbsp;f. OpenID Foundation OpenID Connect 1.0 protocol ([link](https://openid.net/developers/specs/))
 		
