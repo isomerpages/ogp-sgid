@@ -60,7 +60,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
     **Contact information**
 
-9. Please contact sgid@open.gov.sg if you:
+9. Please contact [sgid@open.gov.sg](mailto:sgid@open.gov.sg) if you:
 
     9.1. have any enquiries or feedback on our data protection policies and procedures; or
 		
