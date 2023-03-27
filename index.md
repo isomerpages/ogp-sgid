@@ -29,8 +29,12 @@ sections:
       subtitle: PUBLIC OFFICERS
   - infobar:
       title: Interested to onboard?
-      description: "sgID is currently available to selected businesses and government
-        agencies. "
+      description: All you need is your SingPass mobile app to log into the sgID
+        developer portal.
+      button: Developer Portal
+      url: https://developer.id.gov.sg
+  - infobar:
+      title: Questions?
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
 ---
