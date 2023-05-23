@@ -4,12 +4,12 @@ title: sgID
 description: Designed for privacy
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: '""'
 sections:
   - hero:
       title: sgID
-      subtitle: sgID is an authentication and data sharing service <br>focused on
-        preserving privacy.
+      subtitle: sgID is an authentication and data sharing service with a focus on
+        citizen privacy.
       background: /images/background.png
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
@@ -20,7 +20,7 @@ sections:
       alt: Image alt text
       image: /images/integrate.png
   - infopic:
-      title: Authenticate users on FormSG
+      title: Login to services with sgID
       description: Set up authentication on your forms with just one click. If you are
         filling in a form, simply log in with your Singpass app by scanning the
         QR code as usual.
@@ -28,11 +28,11 @@ sections:
       image: /images/form.png
       subtitle: PUBLIC OFFICERS
   - infobar:
-      title: Interested to onboard?
-      description: All you need is your SingPass mobile app to log into the sgID
-        developer portal.
-      button: Developer Portal
-      url: https://developer.id.gov.sg
+      title: Interested?
+      description: Check out our documentation for more information on how to
+        integrate with sgID!
+      button: Developer Docs
+      url: https://docs.id.gov.sg
   - infobar:
       title: Questions?
       button: Contact Us
