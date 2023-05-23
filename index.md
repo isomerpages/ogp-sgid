@@ -4,7 +4,7 @@ title: sgID
 description: Designed for privacy
 image: /images/isomer-logo.svg
 permalink: /
-notification: '""'
+notification: ""
 sections:
   - hero:
       title: sgID
