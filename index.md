@@ -23,10 +23,19 @@ sections:
       title: Identity with a focus on privacy
       description: sgID is a Singapore government service that allows Singapore
         residents to perform end-to-end encrypted logins to applications with
-        the Singpass mobile app.
+        the Singpass mobile app
       alt: Image alt text
       image: /images/integrate.png
       subtitle: What is sgID?
+  - infopic:
+      title: Integrate with sgID
+      subtitle: Examples
+      description: sgID powers logins for apps such as Singapore's National Health
+        Appointment System and FormSG. Your app could be next!
+      button: Get started with sgID
+      url: https://docs.id.gov.sg/introduction/overview
+      image: /images/examples.png
+      alt: Image alt text
   - infopic:
       title: Enable sgID login on your forms
       description: Set up Singpass login on your FormSG forms with just one click!
