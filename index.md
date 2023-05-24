@@ -12,7 +12,7 @@ sections:
       dropdown:
         title: Shortcuts
         options:
-          - title: Developer Documentation
+          - title: Documentation
             url: https://docs.id.gov.sg
           - title: Developer Portal
             url: https://developer.id.gov.sg
