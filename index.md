@@ -43,6 +43,6 @@ sections:
       url: https://docs.id.gov.sg
   - infobar:
       title: Questions?
-      button: Contact Us
-      url: https://go.gov.sg/sgid-contact
+      button: FAQ
+      url: /faq
 ---
