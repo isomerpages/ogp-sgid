@@ -1,15 +1,15 @@
 ---
 layout: homepage
 title: sgID
-description: Designed for privacy
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
       title: sgID
-      subtitle: "sgID is a privacy-focused government service that allows Singapore
-        residents to login into applications with the Singpass mobile app. "
+      subtitle: sgID is a privacy-focused government service that allows Singapore
+        residents to login into applications with the Singpass mobile app.
       background: /images/background.png
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
