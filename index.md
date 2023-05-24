@@ -44,5 +44,5 @@ sections:
   - infobar:
       title: Questions?
       button: FAQ
-      url: /faq
+      url: https://docs.id.gov.sg/faq
 ---
