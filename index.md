@@ -9,15 +9,6 @@ sections:
   - hero:
       title: sgID
       background: /images/background.png
-      dropdown:
-        title: Shortcuts
-        options:
-          - title: Documentation
-            url: https://docs.id.gov.sg
-          - title: Developer Portal
-            url: https://developer.id.gov.sg
-          - title: Contact Us
-            url: https://go.gov.sg/sgid-contact
       subtitle: A Singapore government identity provider with a focus on citizen privacy
   - infopic:
       title: Identity with a focus on privacy
