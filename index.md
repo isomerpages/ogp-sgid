@@ -31,14 +31,14 @@ sections:
       title: Integrate with sgID
       subtitle: Examples
       description: sgID powers logins for apps such as Singapore's National Health
-        Appointment System and FormSG. Your app could be next!
+        Appointment System and FormSG
       button: Get started with sgID
       url: https://docs.id.gov.sg/introduction/overview
       image: /images/examples.png
       alt: Image alt text
   - infopic:
       title: Enable sgID login on your forms
-      description: Set up Singpass login on your FormSG forms with just one click!
+      description: Set up Singpass login on your FormSG forms with just one click
       alt: Image alt text
       image: /images/form.png
       subtitle: For Public Officers
