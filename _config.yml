@@ -3,10 +3,10 @@ url: https://id.gov.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#0065c7"
-  secondary-color: "#e4edf6"
+  secondary-color: "#126ec7"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#c2d9ed"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
