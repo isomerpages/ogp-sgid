@@ -1,40 +1,48 @@
 ---
 layout: homepage
 title: sgID
-description: Designed for privacy
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       title: sgID
-      subtitle: sgID is an authentication and data sharing service <br>focused on
-        preserving privacy.
       background: /images/background.png
-      button: Contact Us
-      url: https://go.gov.sg/sgid-contact
+      subtitle: A Singapore government identity provider with a focus on citizen privacy.
+      button: Get started
+      url: https://docs.id.gov.sg
   - infopic:
-      title: Familiar authentication flow
-      description: sgID is fully integrated into the Singpass App. Simply scan the QR
-        code with the Singpass app to log in with sgID.
+      title: Identity with a focus on privacy
+      description: sgID is a Singapore government service that allows Singapore
+        residents to perform end-to-end encrypted logins to applications with
+        the Singpass mobile app.
       alt: Image alt text
       image: /images/integrate.png
+      subtitle: What is sgID?
   - infopic:
-      title: Authenticate users on FormSG
-      description: Set up authentication on your forms with just one click. If you are
-        filling in a form, simply log in with your Singpass app by scanning the
-        QR code as usual.
+      title: Integrate with sgID
+      subtitle: Examples
+      description: sgID powers logins for apps such as Singapore's National Health
+        Appointment System and FormSG.
+      button: Get started with sgID
+      url: https://docs.id.gov.sg/introduction/overview
+      image: /images/examples.png
+      alt: Image alt text
+  - infopic:
+      title: Enable sgID login on your forms
+      description: Set up Singpass login on your FormSG forms with one click.
       alt: Image alt text
       image: /images/form.png
-      subtitle: PUBLIC OFFICERS
+      subtitle: For Public Officers
   - infobar:
-      title: Interested to onboard?
-      description: All you need is your SingPass mobile app to log into the sgID
-        developer portal.
-      button: Developer Portal
-      url: https://developer.id.gov.sg
+      title: Interested?
+      description: Check out our documentation for more information on how to
+        integrate with sgID!
+      button: Developer Docs
+      url: https://docs.id.gov.sg
   - infobar:
       title: Questions?
-      button: Contact Us
-      url: https://go.gov.sg/sgid-contact
+      button: FAQ
+      url: https://docs.id.gov.sg/faq
 ---
