@@ -31,7 +31,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Enable sgID login on your forms
-      description: Set up Singpass login on your FormSG forms with just one click
+      description: Set up Singpass login on your FormSG forms with one click
       alt: Image alt text
       image: /images/form.png
       subtitle: For Public Officers
