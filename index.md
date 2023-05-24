@@ -10,6 +10,8 @@ sections:
       title: sgID
       background: /images/background.png
       subtitle: A Singapore government identity provider with a focus on citizen privacy
+      button: Get started
+      url: https://docs.id.gov.sg
   - infopic:
       title: Identity with a focus on privacy
       description: sgID is a Singapore government service that allows Singapore
