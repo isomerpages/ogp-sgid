@@ -18,6 +18,7 @@ sections:
             url: https://developer.id.gov.sg
           - title: Contact Us
             url: https://go.gov.sg/sgid-contact
+      subtitle: A Singapore government identity provider with a focus on citizen privacy
   - infopic:
       title: Identity with a focus on privacy
       description: sgID is a Singapore government service that allows Singapore
@@ -27,13 +28,11 @@ sections:
       image: /images/integrate.png
       subtitle: What is sgID?
   - infopic:
-      title: Login to services with sgID
-      description: Set up authentication on your forms with just one click. If you are
-        filling in a form, simply log in with your Singpass app by scanning the
-        QR code as usual.
+      title: Enable sgID login on your forms
+      description: Set up Singpass login on your FormSG forms with just one click!
       alt: Image alt text
       image: /images/form.png
-      subtitle: PUBLIC OFFICERS
+      subtitle: For Public Officers
   - infobar:
       title: Interested?
       description: Check out our documentation for more information on how to
