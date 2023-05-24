@@ -1,9 +1,9 @@
-title: "sgID "
-url: ""
+title: sgID
+url: https://id.gov.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#0065c7"
-  secondary-color: "#0065c7"
+  secondary-color: "#e4edf6"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -53,3 +53,7 @@ staging: https://ogp-sgid-staging.netlify.app
 prod: https://ogp-sgid-prod.netlify.app
 is_government: true
 google_analytics: UA-200889821-2
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
