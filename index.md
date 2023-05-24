@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       title: sgID
-      subtitle: sgID is an authentication and data sharing service with a focus on
-        citizen privacy.
+      subtitle: "sgID is a privacy-focused government service that allows Singapore
+        residents to login into applications with the Singpass mobile app. "
       background: /images/background.png
       button: Contact Us
       url: https://go.gov.sg/sgid-contact
