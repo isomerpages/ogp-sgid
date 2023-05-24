@@ -1,7 +1,7 @@
 logo: /images/sgID-logo.svg
 links:
   - title: FAQ
-    url: /FAQ/
+    url: https://docs.id.gov.sg/faq
   - title: Documentation
     url: https://docs.id.gov.sg/
   - title: Developer Portal
